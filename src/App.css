@@ -1,0 +1,71 @@
+body
+{
+background-color: #020631;
+}
+.todo-container
+{
+  text-align: center;
+  color:white;
+  margin: 3em;
+  font-size: 30px;
+  height: 400px;
+
+}
+.header
+{
+padding: 30px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 2em;
+text-align: center;
+}
+.input-container
+{
+  padding:10px;
+  border: 3px solid white;
+  width: 50%;
+  margin: auto;
+  height: 100px;
+  border-radius: 20px;
+  
+}
+.input
+{
+ width: 80%;
+ height: 45px;
+ border: solid black;
+ border-radius: 20px ;
+ margin-top: 25px;
+ font-size: 20px;
+ font-family: 'Times New Roman', Times, serif;
+
+}
+.add-btn
+{
+height:45px ;
+width: 80px;
+border-radius: 20px;
+border: solid black;
+margin-left: 10px;
+cursor: pointer;
+color: black;
+
+}
+.list-task
+{ 
+  font-size: 1em;
+  font-family: 'Times New Roman', Times, serif;
+  padding-top: 20px;
+  margin-right: 168px;
+  border-color: white;
+
+}
+.dlt-btn
+{
+float: right;
+height: 45px;
+width: 80px;
+border-radius: 20px;
+border: black solid;
+
+}
+
